@@ -1,0 +1,19 @@
+{
+  "name": "adidas-monitor",
+  "version": "1.0.0",
+  "description": "adidas monitor",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Owen Krause",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "hpagent": "^1.2.0"
+  }
+}
